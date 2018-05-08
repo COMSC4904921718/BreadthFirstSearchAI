@@ -1,0 +1,6 @@
+Queue - Data structure that stores items like a line at the store. The first item on, is the first item out.
+Dequeue - Take off the item at the top of the queue. This is the item that has been there the longest.
+Enqueue - Place the item on the queue. The item will be put on the back of the queue.
+Visited - Set of nodes that have been examined.
+Neighbors - Nodes that have a direct path to one another.
+Goal - Node the algorithm is looking for.
